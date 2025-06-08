@@ -8,6 +8,3 @@
 - Jiahao Wang, Gang Pan, **Di Sun**, Jiawan Zhang. Chinese Character Inpainting with Contextual Semantic Constraints, ACM International Conference on Multimedia, China, 2021（TOP, CCF A）
 - **Di Sun**, Jiawan Zhang, Gang Pan, Rui Zhan. Mural2Sketch: A Combined Line Drawing Generation Method for Ancient Mural Painting, IEEE International Conference on Multimedia and Expo（ICME）, San Diego, USA, 2018（CCF B）
 - Jiawan Zhang; Rui Zhan; **Di Sun**; Gang Pan ; Symmetry-Aware Face Completion with Generative Adversarial Networks, 14th Asian Conference on Computer Vision（ACCV）,Australia, 2019（CCF C）
-
-
-
