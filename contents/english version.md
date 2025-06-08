@@ -10,7 +10,7 @@ Associate Professor/Master's Supervisor
 
 **Address:** Room 8-110, West Campus, Binhai Campus, Tianjin University of Science and Technology
 
-**Research Interests:** Computer Vision,Image Synthesis
+**Research Interests:** Computer Vision, Image Synthesis
 
 
 
