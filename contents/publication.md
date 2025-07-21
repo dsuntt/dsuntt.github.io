@@ -1,3 +1,9 @@
+* Gang Pan, Meihua Liu, Lei Zhou, Jiahao Wang, **Di Sun**. "Image Retargeting based on Text Region Awareness", ACM MM, 2025.(CCF A)
+* Gang Pan, Hongen Liu, **Di Sun**. "Formula Spotting Based on Synergy Perception and Representation Mining", ACM MM, 2025.(CCF A)
+* Gang Pan, Liming Pan, Hongze Mi, Rongyu Xiong, Jiahao Wang, **Di Sun**. "AFFIR: Dual-Modal Attention Feature Fusion for Scene Text Image Retargeting", ACM MM, 2025.(CCF A)
+* **Di Sun**, Yitong Guo, Chaojie Yao, Kai Yan, Haifeng Fan, Chuanlei Zhang. MS-DETR: Multi-Scale and Attention-Enhanced Rust Detection for Bolts and Nuts in Transmission Lines. ICIC, 2025. （CCF C）
+* **Di Sun**, Xiaoyu Li, Tingting Yang, Chao Ran, Chuanlei Zhang. Unpaired Artistic Portrait Drawing Generation with Asymmetric Network. ICIC, 2025. （CCF C）
+
 - Jiahao Wang, Gang Pan, **Di Sun**, Jiawan Zhang. AFAN: An Attention-Driven Forgery Adversarial Network for Blind Image Inpainting, IEEE Transactions on Multimedia, 2025.(中科院一区)
 - Gang Pan, Chen Wang, Zhijie Sui, Shuai Guo, Yaozhi Lv, Honglie Li, **Di Sun**, and Zixia Xia. Sewer Image Super-Resolution with Depth Priors and Its Lightweight Network, Computer-Aided Civil and Infrastructure Engineering, 2025.( 中科院一区)
 - Jinyuan Li, Han Li, **Di Sun**, Jiahao Wang, Wenkun Zhang, Gang Pan. LLMs as Bridges: Reformulating Grounded Multimodal Named Entity Recognition, ACL, 2024. (TOP, CCF A)
