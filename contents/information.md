@@ -1,4 +1,4 @@
-​         孙迪，天津大学博士(后)，副教授，第20届“全国青年岗位能手”，百度文心大模型导师，天津市高校教师教学竞赛二等奖。研究兴趣包括计算机视觉、图像合成，尤其是无人机低空感知和文化遗产保护的跨领域研究问题。以第一/通讯作者在ACM MM、ICME等高水平国际会议发表多篇论文，还担任ACM MM、Knowledge-Based Systems、Pattern Recognition、Signal Processing等期刊与会议审稿人。	
+         			孙迪，天津大学博士(后)，副教授，第20届“全国青年岗位能手”，百度文心大模型导师，天津市高校教师教学竞赛二等奖。研究兴趣包括计算机视觉、图像合成，尤其是无人机低空感知和文化遗产保护的跨领域研究问题。以第一/通讯作者在ACM MM、ICME等高水平国际会议发表多篇论文，还担任ACM MM、Knowledge-Based Systems、Pattern Recognition、Signal Processing等期刊与会议审稿人。	
 
 **工作履历（按时间倒序排列）：**
 
